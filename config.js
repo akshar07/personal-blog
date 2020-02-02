@@ -4,6 +4,7 @@ module.exports = {
   url: 'https://avocadolatte.com/',
   pathPrefix: '/',
   title: 'Thioughts and Ideas by Akshar Takle',
+  subtitle: "My Blogs",
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -30,8 +31,17 @@ module.exports = {
       facebook: 'https://www.facebook.com/akshar.takle',
       twitter: 'https://twitter.com/AksharVT',
       github: 'https://github.com/akshar07',
-      linkedin: 'https://www.linkedin.com/in/akshartakle/',
-      instagram: '#akshar92'
+      rss: '',
+      vkontakte: '',
+      telegram: '',
+      linkedin: '#',
+      instagram: '#',
+      line: '',
+      gitlab: '',
+      weibo: '',
+      codepen: '',
+      youtube: '',
+      soundcloud: '',
     }
   }
 };
