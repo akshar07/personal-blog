@@ -25,7 +25,7 @@ module.exports = {
   author: {
     name: 'Akshar Takle',
     photo: '/akshar.jpg',
-    bio: 'A Software Enginner. Tech Enthusiast. Information Sponge',
+    bio: 'A Software Engineer. Tech Enthusiast. Information Sponge',
     contacts: {
       email: 'takleakshar@gmail.com',
       facebook: 'akshar.takle',
