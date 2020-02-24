@@ -9,8 +9,6 @@ category: Interviews
 tags:
   - Frontend interviews
 ---
-
-
 - - -
 
 **Interviewing sucks!** The process is time-consuming, drains a lot of our energy and most of the time in return it gives us mental stress. But, you gotta do what you gotta do!
@@ -99,7 +97,15 @@ In the exercise, if you are given some task that is frontend work, show your cod
 
 **If you are a new grad or just starting, make sure you know how to tackle string, array manipulations, and recursion.**
 
-Check out this [github](https://btholt.github.io/four-semesters-of-cs/) by Brian Holt for sorting and recursion algorithms. Its gold!
+Check out this [github](https://btholt.github.io/four-semesters-of-cs/) by Brian Holt for sorting and recursion algorithms. It's gold!
+
+In the end, be ready with few questions for the interviewer. Many people find this awkward when they are asked if they have any questions. This is your chance to get an idea of how your interview went and it also shows that you are curious about the position, team, and company. Here are a few questions that you can ask at the end:
+
+* What are the next steps? How long does it take for the whole process? (the answer to this question **might** give you a hint whether you made it to the next round)
+* What is the company culture like?
+* How big is the team?
+* Which team I would be interviewing for?
+* What are some current ongoing projects?
 
 #### Code Test / Hacker Rank :
 
@@ -115,6 +121,12 @@ When you are doing the exercise, think out loud. Keep the end goal in mind and d
 
 Congrats! Hopefully, by now, you have an offer from your dream company. Cheers!! Shoot me an mail or connect with me on twitter for any questions or just say hi.
 
+
+
 ![](/media/pngwave 1.png)
 
-![]()
+Helpful resources: 
+
+* <https://leetcode.com/>
+* <https://www.educative.io/courses/grokking-the-system-design-interview> - Design Patterns
+* Sample resume- <https://github.com/akshar07/Resume/blob/master/AksharTakle-%20Resume%20%20copy.pdf>
