@@ -20,7 +20,7 @@ All notable changes to this project will be documented in this file.
 - [Pull #95](https://github.com/alxshelepenok/gatsby-starter-lumen/pull/95): Fixed url prop bug for <ReactDisqusComments />
 - [Pull #94](https://github.com/alxshelepenok/gatsby-starter-lumen/pull/94): Add isIndex prop to Sidebar in index-template
 - [Pull #93](https://github.com/alxshelepenok/gatsby-starter-lumen/pull/93): Upgrade React version to 16.8.1
-- [Pull #89](https://github.com/alxshelepenok/gatsby-starter-lumen/pull/89): Removed .gatsby-highlight selectors 
+- [Pull #89](https://github.com/alxshelepenok/gatsby-starter-lumen/pull/89): Removed .gatsby-highlight selectors
 
 ## [3.0.0] - 2019-01-22
 - Heavy refactoring
@@ -36,7 +36,7 @@ All notable changes to this project will be documented in this file.
 ## [2.0.3] - 2018-11-09
 ### Added
 - [Pull #70](https://github.com/alxshelepenok/gatsby-starter-lumen/pull/70): Refactor the React logic and introduce Fragment
-- [Pull #63](https://github.com/alxshelepenok/gatsby-starter-lumen/pull/63): We want `yarn.lock` in git
+- [Pull #63](https://github.com/alxshelepenok/gatsby-starter-lumen/pull/63): We want `npm.lock` in git
 - [Pull #56](https://github.com/alxshelepenok/gatsby-starter-lumen/pull/56): Add Simple Netlify Deploy Support
 - [Pull #55](https://github.com/alxshelepenok/gatsby-starter-lumen/pull/55): Fix prefix-links error upon deploy
 - [Pull #54](https://github.com/alxshelepenok/gatsby-starter-lumen/pull/54): Improve RSS channel defaults
