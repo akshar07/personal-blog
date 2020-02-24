@@ -91,7 +91,7 @@ During the interview, ask questions, lots of them. Understand clearly what the p
 
 In the exercise if you are given some task that is frontend work, show your coding skills, follow best practices, get some optimizations, handle edge cases. If you are a new grad or someone with no experience, your side projects will help you as lot in this round. If its algorithm exercise, then hopefully you have already solved enough leetcode problems to make it through this round. 
 
-**If you are a new grad or just starting, make sure you know how to tackle string, array manipulations**
+**If you are a new grad or just starting, make sure you know how to tackle string, array manipulations and recursion** 
 
 #### ***Code Test / Hacker Rank :***
 
